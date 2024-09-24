@@ -1,4 +1,5 @@
 languageCode: en-us
 title: Thuy Nguyen
 description: My Portfolio Website
+show_downloads: false
 theme: jekyll-theme-cayman
